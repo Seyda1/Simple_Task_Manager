@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\bin\Debug\OSfinal.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\bin\Debug\OSfinal.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\bin\Debug\OSfinal.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\OSfinal\OSfinal\obj\Debug\OSfinal.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\bin\Debug\OSfinal.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\bin\Debug\OSfinal.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\bin\Debug\OSfinal.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.Form1.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\OSfinal\OSfinal\obj\Debug\OSfinal.pdb
